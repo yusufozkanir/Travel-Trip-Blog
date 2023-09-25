@@ -19,6 +19,6 @@ It provides a platform to share travel experiences through articles, photos, and
 ## Technologies
 This project utilizes the following technologies:
 
-ASP.NET MVC: The foundational platform for web applications.
-Entity Framework Code First: Database management and modeling.
-SQL Server: The RDBMS used for our database system.
+- ASP.NET MVC: The foundational platform for web applications.
+- Entity Framework Code First: Database management and modeling.
+- SQL Server: The RDBMS used for our database system.
